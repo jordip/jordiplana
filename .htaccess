@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} ^www\.jordiplana\.com$ [NC]
+#if not root
+RewriteCond %{REQUEST_URI} !^/?$ [NC]
+#redirect
+RewriteRule ^(.*)$ http://www.jordiplana.com [R=301,L]
