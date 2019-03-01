@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jordiplana.com
+Token: 0647f6006e39c8855e9609b2c821b7ae84f76f49b982b4a59fb51a7de48e2c39
